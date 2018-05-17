@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{014D2FDA-483F-47F4-AC9C-24FCA491B74F}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedApplication/TabController.cs">
     <Files>
-      <File FileName="TabbedApplication/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TabbedApplication/AppDelegate.cs" Line="11" Column="25" />
+      <File FileName="TabbedApplication/TabController.cs" Line="14" Column="81" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -9,7 +10,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TabbedApplication PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.21B07EEC-2E6B-4154-B5A8-E90E70D2B5A9" FirstBuild="True">
+  <MonoDevelop.Ide.ItemProperties.TabbedApplication PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.21B07EEC-2E6B-4154-B5A8-E90E70D2B5A9">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.TabbedApplication>
   <MultiItemStartupConfigurations />

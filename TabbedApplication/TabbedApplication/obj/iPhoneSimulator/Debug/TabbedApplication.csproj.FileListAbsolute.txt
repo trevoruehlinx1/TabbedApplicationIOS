@@ -1,0 +1,11 @@
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/bin/iPhoneSimulator/Debug/TabbedApplication.exe
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/bin/iPhoneSimulator/Debug/TabbedApplication.pdb
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/TabbedApplication.csproj.CoreCompileInputs.cache
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/TabbedApplication.exe
+/Users/student/Desktop/tu/TabbedApplicationIOS/TabbedApplication/TabbedApplication/obj/iPhoneSimulator/Debug/TabbedApplication.pdb
