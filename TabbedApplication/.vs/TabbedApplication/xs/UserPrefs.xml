@@ -1,5 +1,9 @@
-﻿<Properties StartupConfiguration="{513B8F83-E773-491A-93BA-5DC370E91452}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{014D2FDA-483F-47F4-AC9C-24FCA491B74F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TabbedApplication/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
